@@ -6,13 +6,14 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing modern web applications.
-- 🎓 &nbsp; Studying Professional training of higher degree Web Application Development at IES Los Albares.
+- 🎓 &nbsp; Advanced Professional Training in Web Application Development.
 - ✍️ &nbsp; Learn other programming languages and photography as hobbies / side activities.
 
 ##### Languages I use:
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
