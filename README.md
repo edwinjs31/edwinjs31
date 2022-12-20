@@ -1,7 +1,7 @@
 ### Hi, I'm Edwin 👋
 
 
-🎓 Full Stack Web Development Student
+🎓 Full Stack Web Development
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
