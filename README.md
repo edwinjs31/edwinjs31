@@ -1,7 +1,7 @@
 ### Hola, soy Edwin 👋
 
 
-🎓Desarrollador Web Full Stack Java | React
+🎓Desarrollador Web Full Stack | Java | React
 
 <h3> 👨🏻‍💻 &nbsp;Acerca de mi </h3>
 
