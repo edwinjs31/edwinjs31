@@ -1,15 +1,15 @@
-### Hi, I'm Edwin 👋
+### Hola, soy Edwin 👋
 
 
-🎓 Full Stack Web Development
+🎓Desarrollador Web Full Stack Java | React
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;Acerca de mi </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing modern web applications.
-- 🎓 &nbsp; Advanced Professional Training in Web Application Development.
-- ✍️ &nbsp; Learn other programming languages and photography as hobbies / side activities.
+- 🎓 &nbsp; Ciclo Formativo de Grado Superior, Desarrollo de Aplicaiones Web.
+- ✍️ &nbsp; Eterno aprendiz de las actuales/nuevas tecnologías y desarrollar aplicaciones web modernas.
+- 🤔 &nbsp; Aficionado al futbol, atletismo y al cine.
 
-##### Languages I use:
+##### Languajes utilizados:
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -20,7 +20,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 
-##### Some of the technologies I have worked with:
+##### Algunas otras tecnologías utilizadas:
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
@@ -34,13 +34,13 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Contactos </h3>
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwinjs31@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwinjs31/)
 
 
-<h2>💻 Some stats 💻</h2>
+<h2>💻 Algunas estadísticas 💻</h2>
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=edwinjs31&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
