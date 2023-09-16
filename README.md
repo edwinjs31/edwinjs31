@@ -1,13 +1,12 @@
 ### Hola, soy Edwin 👋
 
 
-🎓Desarrollador Web Full Stack | Java | React
+🎓Desarrollador Web Full Stack | Java | JavaScript | TypeScript
 
 <h3> 👨🏻‍💻 &nbsp;Acerca de mi </h3>
 
 - 🎓 &nbsp; Ciclo Formativo de Grado Superior, Desarrollo de Aplicaiones Web.
-- ✍️ &nbsp; Eterno aprendiz de las actuales/nuevas tecnologías y desarrollar aplicaciones web modernas.
-- 🤔 &nbsp; Aficionado al futbol, atletismo y al cine.
+- ✍️ &nbsp; Eterno aprendiz de las tecnologías.
 
 ##### Languajes utilizados:
 
