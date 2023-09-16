@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 &nbsp;Acerca de mi </h3>
 
 - 🎓 &nbsp; Ciclo Formativo de Grado Superior, Desarrollo de Aplicaiones Web.
-- ✍️ &nbsp; Eterno aprendiz de las tecnologías.
+- ✍️ &nbsp; Eterno aprendiz de las tecnologías...
 
 ##### Languajes utilizados:
 
