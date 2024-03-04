@@ -1,9 +1,7 @@
 ### Hola, soy Edwin 👋
 
 
-Desarrollador Web Full Stack
-con experiencia en JavaScript, TypeScript y Java. Apasionado por la creación de aplicaciones web innovadoras utilizando tecnologías como React.js y Spring Boot. 
-Graduado en Desarrollo de Aplicaciones Web con un enfoque en la construcción de soluciones robustas y escalables. ¡Siempre en busca de nuevos desafíos y oportunidades para aprender y crecer en el mundo del desarrollo de software!
+Desarrollador Web Full Stack, con experiencia en JavaScript, TypeScript y Java. Apasionado por la creación de aplicaciones web innovadoras utilizando tecnologías como React.js y Spring Boot. Graduado en Desarrollo de Aplicaciones Web, con un enfoque en la construcción de soluciones robustas y escalables. ¡Siempre en busca de nuevos desafíos y oportunidades para aprender y crecer en el mundo del desarrollo de software!
 
 ##### Languajes utilizados:
 
